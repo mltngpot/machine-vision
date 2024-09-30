@@ -1,1 +1,1 @@
-# CS52250
+# Machine Vision
